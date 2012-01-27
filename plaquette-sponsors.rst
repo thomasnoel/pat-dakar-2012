@@ -1,7 +1,7 @@
 #format rst
 
-Python Africar Tour, étape sénégalaise
-======================================
+Python Africar Tour, étape Dakar 2012
+=====================================
 
 Présentation générale
 =====================
@@ -12,32 +12,32 @@ programmation Python en Afrique et y encourager le développement d'une culture
 de la programmation logicielle moderne, de l'innovation informatique, des
 logiciels libres.
 
-Python est un puissant langage de programmation, qui s’est imposé à
-l'échelle internationale durant les 15 dernières années, dans de nombreux
-domaines dont l'informatique scientifique, le développement
-d'applications ou la création de sites Web.
+Python est un puissant langage de programmation, qui s’est imposé à l'échelle
+internationale durant les 15 dernières années, dans de nombreux domaines dont
+l'informatique scientifique, le développement d'applications de bureaux et bien
+entendu la création de sites et d'applications sur le Web.
 
 L’idée du projet Python African Tour est simple : organiser des sessions de
 formation animées par des experts en Python volontaires dans différents pays
 africains. Ces sessions se dérouleront sous forme d’ateliers, conférences,
 démonstrations, concours de programmation, etc.
 
-**Nous proposons d’organiser l’étape sénégalaise du 6 au 10 juillet 2009 à Dakar.**
+**Nous proposons d’organiser une étape sénégalaise du 16 au 20 avril 2012 à
+Dakar.**
 
 .. topic:: Les porteurs du projet à Dakar
 
-   * Ahmed Tidjane Cissé, élève ingénieur informatique (ESP/UCAD)
-   * Serghei Mihai, volontaire international de la francophonie
-   * Thomas Noël, informaticien à l'Agence universitaire de la Francophonie
    * Ousmane Wilane, informaticien indépendant
+   * Stéfano Komla A. Amékoudi, responsable du Campus numérique francophone de Dakar
+   * Royer Yerbanga, informaticien à l'Agence universitaire de la Francophonie
 
 .. topic:: Les accompagnateurs et facilitateurs, au Sénégal et à l'extérieur
 
-   * Alex Corenthin, département Génie Informatique de l'UCAD
-   * L'Agence universitaire de la Francophonie (Campus numérique de Dakar)
-   * Le Club Synapse, club informatique des l'Ecole Supérieure Polytechnique
-   * `DakarLUG <http://dakarlug.org>`_, le Groupe des utilisateurs de Linux au Sénégal
    * Kamon Ayeva, *leader* du projet Python African Tour (France)
+   * Thomas Noël, informaticien chez Entr'ouvert (France)
+   * Alex Corenthin, département Génie Informatique de l'Université Cheikh Anta Diop de Dakar
+   * L'Agence universitaire de la Francophonie (et son campus numérique de Dakar)
+   * `DakarLUG <http://dakarlug.org>`_, le Groupe des utilisateurs de Linux au Sénégal
    * tous les formateurs volontaires du Python African Tour
 
 .. * Ibrahima Niang, directeur du Centre de Calcul de l'UCAD
