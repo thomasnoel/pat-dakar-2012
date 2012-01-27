@@ -320,14 +320,13 @@ Budget prévisionnel
    =======================================  ========  =============  ==========
    Description                              Quantité  Prix unitaire  Total
    =======================================  ========  =============  ==========
-   Trois billets d'avion Paris/Dakar/Paris         3         1100 €  3300 €
-   Hébergement (nuits d'hotel)                   7*3           30 €   630 €
-   Repas des animateurs                          7*3           10 €   210 €
-   Affiches et banderolles                                    150 €   150 €
-   T-shirts                                       60            5 €   300 €
+   4 billets d'avion Paris/Dakar/Paris             4         1200 €      4800 €
+   Hébergement (nuits d'hotel)                   7*4           30 €       630 €
+   Repas des animateurs                          7*4           10 €       210 €
+   Affiches et banderolles                                    150 €       150 €
+   T-shirts                                       80            5 €       400 €
    **Total**                                                         **4590 €**
    =======================================  ========  =============  ==========
-
 
 
 Formules de Sponsoring
