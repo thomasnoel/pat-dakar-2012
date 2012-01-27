@@ -30,6 +30,7 @@ Dakar.**
    * Ousmane Wilane, informaticien indépendant
    * Stéfano Komla A. Amékoudi, responsable du Campus numérique francophone de Dakar
    * Royer Yerbanga, informaticien à l'Agence universitaire de la Francophonie
+   * Abdelkader Allam, ...
 
 .. topic:: Les accompagnateurs et facilitateurs, au Sénégal et à l'extérieur
 
@@ -64,22 +65,22 @@ de développeurs pour sa **puissance**, sa **facilité**, sa **souplesse**, sa
 Tcl. 
 
 Python est placé sous une **licence libre**. Gratuit, on peut l'utiliser sans
-restriction y compris dans des projets commerciaux ;
+restriction y compris dans des projets commerciaux.
 
 Python fonctionne sur la plupart des plates-formes informatiques, des
 supercalculateurs aux ordinateurs centraux, de Windows à Unix en passant par
-Linux, MacOS ou DOS, avec Java ou encore .NET ;
+Linux, MacOS ou DOS, avec Java ou encore .NET.
 
 Python convient aussi bien à des scripts d'une dizaine de lignes qu'à des
 projets complexes de plusieurs dizaines de milliers de lignes. Sa syntaxe
 simple, combinée à des types de données évolués (listes, dictionnaires, ...),
-conduit à des programmes à la fois lisibles et compacts ;
+conduit à des programmes à la fois lisibles et compacts.
 
 Python est apprécié par les **pédagogues** qui y trouvent un langage où la
 syntaxe, clairement séparée des mécanismes de bas niveau, permet une initiation
 aisée aux concepts de la programmation. Sa courbe d'apprentissage est très
 rapide, **quelques jours suffisent** pour l'apprendre et quelques semaines pour
-le maîtriser ;
+le maîtriser.
 
 Python est un langage qui **évolue**, se modernise, s'améliore. Le
 développement du langage est soutenu par une communauté d'utilisateurs
@@ -98,7 +99,7 @@ bien d'autres.
 
 Python est utilisé par les plus grandes entreprises informatiques du monde :
 *Google* (Guido van Rossum, créateur de Python, y travaille depuis 2005),
-*Oracle/Sun Microsystems*, *Nokia* (Python S60), *IBM*, *Microsoft*
+*Oracle/Sun Microsystems*, *Nokia*, *IBM*, *Microsoft*
 (IronPython), *Canonical* (Ubuntu), ... La *NASA*, l'armée américaine, le
 département animation de *Disney* ou de nombreux scientifiques et
 universitaires y ont recours pour résoudre efficacement leurs problèmes.
