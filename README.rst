@@ -1,2 +1,3 @@
-See http://www.pythonafricantour.com/
+See http://www.pythonafricantour.com/countries/senegal
+
 
