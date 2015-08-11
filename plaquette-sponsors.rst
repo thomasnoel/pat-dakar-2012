@@ -1,6 +1,6 @@
 #format rst
 
-Python Africar Tour, étape Dakar 2012
+Python African Tour, étape Dakar 2012
 =====================================
 
 Présentation générale
